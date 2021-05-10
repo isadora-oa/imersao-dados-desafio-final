@@ -2,7 +2,7 @@
 # Projeto Final - Imersão Dados 3ªed.
 
 
-Neste repositório você vai encontrar todas as informações do desenvolvimento do projeto final da 3ª edição da Imersão Dados na área de Drug Discovery.
+Neste repositório você vai encontrar todas as informações do desenvolvimento do projeto final da 3ª edição da Imersão Dados na área de Drug Discovery proporcionado pela [Alura](https://www.alura.com.br/cursos-online-data-science), baseado/inspirado no [desafio](https://www.kaggle.com/c/lish-moa) proposto pelo [Laboratory Innovation Science at Harvard](https://lish.harvard.edu)
 
 O objetivo desta imersão é construir um projeto de Data Science com análise exploratória e desenvolver um modelo de Machine Learning para auxiliar na descoberta de novos medicamentos, aplicando todo o conhecimento adquirido durante as aulas da imersão e criando o projeto, que também servirá como portifólio, no github. Este será um projeto mais aplicável e mais próximo do cotidiano de cientistas de dados.
 
