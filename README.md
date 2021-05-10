@@ -9,5 +9,6 @@ Sempre me interessei por computação/informática e agora estou aprendendo sobr
 
 ### Links
 
-* LinkedIn: [isadora-oa](https://www.linkedin.com/in/isadora-oa/)
-* Projeto Imersão.dev (Front-End): https://codepen.io/collection/ZMbqwq
+`LinkedIn:` [isadora-oa](https://www.linkedin.com/in/isadora-oa/)
+
+`Projeto Imersão.dev (Front-End):` https://codepen.io/collection/ZMbqwq
