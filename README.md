@@ -6,8 +6,7 @@ O objetivo desta imersão é construir um projeto de Data Science com análise e
 
 Sempre me interessei por computação/informática e agora estou aprendendo sobre esse universo que é a programação. Essa é a segunda imersão da Alura que eu participo, o projeto da outra imersão (Imersão.dev) está no link abaixo. Este é meu primeiro projeto com Data Science, que é um pouco mais relacionado com a minha área de formação.
 
-
-### Links
+#### Links
 
 `LinkedIn:` [isadora-oa](https://www.linkedin.com/in/isadora-oa/)
 
