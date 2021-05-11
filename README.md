@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/564x/b3/a1/b2/b3a1b215e76c6d4824bcfdeb9b80a362.jpg)
+![](https://i.pinimg.com/originals/aa/d2/a7/aad2a736c897baa5918a26bf911cb106.png)
 # Projeto Final - Imersão Dados 3ªed.
 
 Neste repositório você vai encontrar todas as informações do desenvolvimento do projeto final da 3ª edição da Imersão Dados, realizada entre os dias 03 e 10 de maio de 2021, na área de Drug Discovery proporcionado pela [Alura](https://www.alura.com.br/), baseado/inspirado no [desafio](https://www.kaggle.com/c/lish-moa) proposto pelo [Laboratory Innovation Science at Harvard](https://lish.harvard.edu).
