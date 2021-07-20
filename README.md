@@ -19,6 +19,6 @@ I have always been interested in computing/computer science and now I am learnin
 
 ### Links
 
-`LinkedIn:` [isadora-oa](https://www.linkedin.com/in/isadora-oa/)
+`LinkedIn:` [`isadora-oa`](https://www.linkedin.com/in/isadora-oa/)
 
-`Projeto Imersão.dev (Front-End):` https://codepen.io/collection/ZMbqwq
+`Projeto Imersão.dev (Front-End):` [`https://codepen.io/collection/ZMbqwq`](https://codepen.io/collection/ZMbqwq)
